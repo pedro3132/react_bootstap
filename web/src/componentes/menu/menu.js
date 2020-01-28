@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar, Form, Nav, FormControl, Button, NavDropdown } from 'react-bootstrap';
 
 
-  export default function menu() {
+  export default function Menu() {
   return (
    <>
     <Navbar bg="light" expand="lg">
@@ -30,3 +30,4 @@ import { Navbar, Form, Nav, FormControl, Button, NavDropdown } from 'react-boots
    </>
   );
 }
+

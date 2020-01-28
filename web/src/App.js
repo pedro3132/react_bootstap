@@ -1,12 +1,13 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import menu from './componentes/menu/menu';
-
+import Menu from './componentes/menu/menu';
+import Car from './componentes/Car/Car'
 
 function App() {
   return (
     <>
-    <menu/>
+    <Menu/>
+    <Car/>
     </>
   );
 }
