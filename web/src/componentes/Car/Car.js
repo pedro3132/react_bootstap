@@ -2,7 +2,6 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
 import amor from '../imagens/amor.jpg'
-import creed from '../imagens/creed.jpg'
 import v from '../Video/v.mp4'
 
 
