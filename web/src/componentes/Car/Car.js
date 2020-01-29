@@ -16,17 +16,6 @@ import v from '../Video/v.mp4'
       src={amor}
       alt="First slide"
     />
-    <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src={creed}
-      alt="Third slide"
-    />
 
     <Carousel.Caption>
       <h3>Second slide label</h3>
