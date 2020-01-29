@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
 import amor from '../imagens/amor.jpg'
-import v from '../Video/v.mp4'
+import v2 from '../Video/v2.mp4'
 import './car.css'
 
   export default function Car() {
@@ -24,7 +24,7 @@ import './car.css'
   <Carousel.Item>
     <video controls autoPlay
       className="d-block w-100"
-      src={v}
+      src={v2}
       alt="Third slide"
     />
 
